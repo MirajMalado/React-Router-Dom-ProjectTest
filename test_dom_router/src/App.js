@@ -1,10 +1,11 @@
 import Home from "./component/pages/Home";
-import About from "./component/pages/About";
+import ListIdee from "./component/pages/ListIdee";
+import About from "./component/pages/ListIdee";
 function App() {
   return (
     <div className="App">
      <Home></Home>
-     <About></About>
+     <ListIdee></ListIdee>
     </div>
   );
 }

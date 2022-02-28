@@ -1,11 +1,11 @@
 import react from "react";
 
-const About = () =>{
+const ListIdee = () =>{
     return(
 <div className="container">
-    <h1> About pages</h1>
+    <h1>La Liste des Idee</h1>
 </div>
     );
 }
 
-export default About;
+export default ListIdee;
